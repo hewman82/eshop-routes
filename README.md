@@ -21,7 +21,7 @@
 
   ## Usage
   
-  Run node server in the terminal to connect to the server and open insomnia to interact with the database. 
+  Run node server in the terminal to connect to the server and open insomnia to interact with the database. See demo or files for routes and req.body structures. [Demo video](https://drive.google.com/file/d/1w21wMG5PVWKHRR7097Fl8Xxu2x40Na0v/view)
   
   ## Contributing
   
